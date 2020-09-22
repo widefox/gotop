@@ -1,4 +1,4 @@
-### **NO LONGER MAINTAINED.** A maintained fork of gotop exists at https://github.com/xxxserxxx/gotop.
+### **NO LONGER MAINTAINED.** A maintained fork of gotop exists at https://github.com/xxxserxxx/gotop but v4.0.1 uses 5x as much CPU and has no temperatures.
 
 <div align="center">
 
